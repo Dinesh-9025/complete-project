@@ -1,0 +1,279 @@
+{
+    "result": [
+        {
+            "username": "seller",
+            "email": "seller123@gmail.com",
+            "password": "seller123"
+        },
+        {
+            "username": "admin",
+            "email": "admin123@gmail.com",
+            "password": "admin123"
+        },
+        {
+            "username": "register",
+            "email": "register123@gmail.com",
+            "password": "register123"
+        },
+        {
+            "username": "user",
+            "email": "user123@gmail.com",
+            "password": "user123"
+        },
+        {
+            "avatarimage":"https://www.w3schools.com/w3images/avatar2.png"
+        }
+    ],
+    
+    "sellerDetail": [
+        {
+            "modal_name": "oppo f7",
+            "why_sell_this_product": "I brought new one,so yah!!"
+        },
+        {
+            "modal_name": "vivo v7",
+            "why_sell_this_product": "got bored!!"
+        
+        },
+        {
+            "modal_name": "iphone xs",
+            "why_sell_this_product": "change to android so yah!!"
+        
+        }
+
+    ],
+
+    "feeds":[
+        {
+            "feedupdate": "New record, over 90 views.",
+            "class": "fa fa-user w3-text-blue w3-large",
+            "time": "10 mins"
+        },
+        {
+            "feedupdate": "Database error.",
+            "class": "fa fa-bell w3-text-red w3-large",
+            "time": "15 mins"
+        },
+        {
+            "feedupdate": "New record, over 40 users.",
+            "class": "fa fa-users w3-text-yellow w3-large",
+            "time" : "17 mins"
+        },
+        {
+            "feedupdate": "New comments.",
+            "class": "fa fa-comment w3-text-red w3-large",
+            "time": "25 mins"
+        },
+	    {
+            "feedupdate": "Check transactions.",
+            "class": "fa fa-bookmark w3-text-blue w3-large",
+            "time" : "28 mins"
+        },
+        {
+            "feedupdate": "CPU overload.",
+            "class": "fa fa-laptop w3-text-red w3-large",
+            "time" : "35 mins"
+        },
+        {
+            "feedupdate" : "New shares.",
+            "class": "fa fa-share-alt w3-text-green w3-large",
+            "time" : "39 mins"
+        }
+    ],
+
+    "messages":[
+        {
+
+
+        }
+    ],
+
+    "regions":[
+        {
+            "image":"https://www.w3schools.com/w3images/region.jpg"
+        }
+    ],
+
+    "General_Status":[
+
+        {
+            "name": "New Visitors",
+            "color": "w3-container w3-center w3-padding w3-green",
+            "percentage": "25%",
+            "width": "width:25%"
+        },
+
+        {
+            "name": "New Users",
+            "color": "w3-container w3-center w3-padding w3-orange",
+            "percentage": "50%",
+            "width": "width:50%"
+        },
+
+        {
+            "name": "Bounce Rate",
+            "color": "w3-container w3-center w3-padding w3-red",
+            "percentage": "75%",
+            "width": "width:75%"
+        }
+    ],
+
+    "Countries":[
+        {
+            "name": "United States",
+            "usage": "65%"
+        },
+
+        {
+            "name": "UK",
+            "usage": "15.7%"
+        },
+
+        {
+            "name": "Russia",
+            "usage": "5.6%"
+        },
+
+        {
+            "name": "Spain",
+            "usage": "2.1%"
+        },
+
+        {
+            "name": "India",
+            "usage": "1.9%"
+        }
+    ],
+    "Recent_Users":[
+        {
+            "name":"Mike",
+            "image": "https://www.w3schools.com/howto/img_avatar.png"
+            
+        },
+        {
+            "name":"jill",
+            "image": "https://www.w3schools.com/howto/img_avatar2.png"
+        },
+        {
+            "name":"Jane",
+            "image": "https://www.w3schools.com/w3images/avatar5.png"
+        }
+    ],
+
+    "Recent_Comments":[
+        {
+            "name": "John",
+            "date": "Aug 29, 2019, 9:12 PM",
+            "content": "Keep up the GREAT work! I am cheering for you!! ",
+            "image": "https://www.w3schools.com/w3images/avatar1.png"
+        },
+        {
+            "name": "Bo",
+            "date": "Sep 29, 2020, 10:12 PM",
+            "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "image": "https://www.w3schools.com/w3images/avatar2.png"
+        }
+    ],
+
+    "about":[
+        {
+            
+            "heading": "Demographic",
+            "Language": "Language",
+            "Country": "Country",
+            "City": "City",
+            "heading2": "System",
+            "Browser": "Browser",
+            "OS": "OS",
+            "More": "More",
+            "heading3": "Target",
+            "Users": "Users",
+            "Active": "Active",
+            "Geo": "Geo",
+            "Interests": "Interests"
+        }
+
+    ],
+    "user_ad":[
+        {
+            "headerImage": "https://www.themodelskit.co.uk/wp-content/uploads/2021/01/shutterstock_496565020-1024x683.jpg",
+            "adimage": "https://c4.wallpaperflare.com/wallpaper/535/789/206/new-smartphones-wallpaper-preview.jpg"
+        }
+    ],
+    
+    "user_jeans":[
+        {
+            
+            "jeans1": "https://www.w3schools.com/w3images/jeans1.jpg",
+            "jname1": "Ripped Skinny Jeans",
+            "prize1": "Rs- 10000",
+
+            "jeans2": "https://www.w3schools.com/w3images/jeans2.jpg",
+            "jname2": "Ripped Skinny Jeans",
+            "prize2": "Rs- 12000",
+
+            "jeans3": "https://www.w3schools.com/w3images/jeans3.jpg",
+            "jname3": "Ripped Skinny Jeans",
+            "prize3": "Rs- 8000",
+
+            "jeans4": "https://www.w3schools.com/w3images/jeans4.jpg",
+            "jname4": "Ripped Skinny Jeans",
+            "prize4": "Rs- 15000"
+        }
+    ],
+
+    "smartPhones":[
+        {
+
+            "mobile1": "https://m.media-amazon.com/images/I/6157kr+aeaL._SX679_.jpg",
+            "mname1": "Realme-narzo",
+            "mobprize1": "Rs- 25000",
+
+            "mobile2": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/61-Cgls+5fL._AC_SL1500_.jpg",
+            "mname2": "Asus-Rog",
+            "mobprize2": "Rs- 29000",
+
+            "mobile3": "https://priceinall.com/wp-content/uploads/2022/05/Infinix-Smart-6-HD-sky-600x600.jpg",
+            "mname3": "Infinix Smart 6",
+            "mobprize3": "Rs- 65000",
+
+            "mobile4": "https://assets-prd.ignimgs.com/2022/04/05/screen-shot-2022-04-05-at-1-20-24-pm-1649190048430.png",
+            "mname4": "Samsung S21",
+            "mobprize4": "Rs- 45000",
+
+            "mobile5": "https://assets.mspimages.in/gear/wp-content/uploads/2022/06/pms_1641441345.76175946.png",
+            "mname5": " Apple IPhone 13 pro",
+            "mobprize5": "Rs- 1,15000",
+
+            "mobile6": "https://www.pinkvilla.com/files/styles/large/public/smartphone_1.jpg?itok=FEnJV6q9",
+            "mname6": "One Plus 9",
+            "mobprize6": "Rs- 85000"
+        }
+    ],
+
+    "views": [
+        {
+            "dname": "Total Delivered",
+            "deliveryCount": "13436",
+
+            "vname": "Total views",
+            "viewsCount": "185358",
+
+            "oname": "Ordered",
+            "odersCount": "5464",
+            
+            "visitorname": "Visitor",
+            "visitorCount": "723"
+        }
+    ],
+
+    "userGeneral": [
+        {
+            "cartname": "Cart",
+            "wishname": "Wishlist",
+            "cartcount": "3",
+            "wishcount": "10"
+           
+        }
+    ]
+}
